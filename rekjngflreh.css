@@ -1,0 +1,22 @@
+h1 {
+    color:rgb(146, 24, 89);
+    text-align: center;
+    font-size: larger;
+}
+
+h2 {
+    color:plum;
+    text-align: center;
+    font-size: large;
+    font-style: italic;
+}
+
+section h2 {
+    text-align: center;
+    font-size: large;
+}
+
+li {
+    color:palevioletred;
+    margin: 10px;
+}
